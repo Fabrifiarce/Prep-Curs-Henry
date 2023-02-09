@@ -1,2 +1,1 @@
-# Prep-Curs-Henry
-Prueba modulo 2 curso preparación Henry
+Prueba de clonar repositorio y guardarlo en escritorio local
